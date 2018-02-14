@@ -1,0 +1,42 @@
+body
+{
+color: #565656 !important;
+}
+h1, h2, h3{
+    color: #76323F;
+}
+h4, h5, h6{
+    color: #C09F80;
+}
+li
+{
+    background-color: white;
+    color: #565656;
+}
+a
+{
+    color: #76323F;
+}
+select
+{
+    color: #565656;
+    background-color: lightgray;
+    display: block;
+    margin: 0 auto;
+}
+.grid-container{
+    display:grid;
+    
+}
+.item1
+{
+    background-color: #D7CEC7;
+}
+.item2
+{
+    
+}
+.item3
+{
+    
+}
